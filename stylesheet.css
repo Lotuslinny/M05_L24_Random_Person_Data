@@ -1,0 +1,8 @@
+body{
+  background-color: rgb(31, 163, 86);
+}
+#landenlijst, #steenbokvrouwen,#oude_creditcards, #meeste_mensen, #gemiddelde_leeftijd, #matchmaking {
+  width: 12em;
+  height: 10em;
+  background-color: rgb(140, 236, 191);
+}
